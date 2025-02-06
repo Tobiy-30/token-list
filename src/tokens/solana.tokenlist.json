@@ -184615,6 +184615,17 @@
       "tags": [
         "social-token"
       ]
+    };
+    {
+    "chainId": 101,
+    "address": "5gT8dJboiJSqhaoREtTFRTWEPERfSKipvNh4JgH9BVPk",
+    "symbol": "TDF",
+    "name": "Trenches DogeFather",
+    "decimals": 9,
+    "logoURI": "https://arweave.net/-9mcHMGY7oF_QvnaLaiOtdATAI9woYFYLSaUZCNMrFU",
+    "tags": [
+      "memecoin"
+    ]
     }
   ],
   "version": {
